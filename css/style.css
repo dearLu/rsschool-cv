@@ -1,0 +1,87 @@
+header {
+  width: 800px;
+  background: #2a2928;
+  height: 300px;
+  margin: auto; /* Авто-отступ  */
+  font: 12pt sans-serif;
+  color: #dfe540;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+  font: 12pt sans-serif;
+  color: #dfe540;
+}
+
+.left {
+  width: 340px;
+  float: left;
+  color: white;
+  background: #2a2928;
+  padding: 30px; /* Внутренние поля вокруг содержимого */
+  height: 180px;
+}
+
+.right {
+  width: 340px;
+  float: left;
+  padding: 30px;
+  background: #2a2928;
+  height: 180px;
+}
+
+.bottom {
+  width: 780px;
+  clear: left;
+  padding: 10px;
+  background: #2a2928;
+  color: #d8d8d7;
+  margin: auto;
+  height: 100px;
+  text-align: center;
+}
+
+.name {
+  height: 200px;
+  width: 330px;
+  float: left;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 30px; /* Внутренние поля вокруг содержимого */
+  background: #2a2928;
+  font: 500% serif;
+  text-align: right;
+}
+
+.photo {
+  width: 340px;
+  float: left;
+  color: white;
+  background: #2a2928;
+  padding-left: 40px;
+  height: 280px;
+}
+
+h2 {
+  color: #dfe540;
+}
+
+li,
+p {
+  color: #d8d8d7;
+  text-align: left;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.inf {
+  text-align: center;
+}
+pre {
+  font-family: sans-serif;
+  color: #d8d8d7;
+}
